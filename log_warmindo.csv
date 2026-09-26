@@ -1,0 +1,9 @@
+ID_Pesanan,Waktu_Pesanan,Nama_Mie,Jenis_Mie,Level_Pedas,Toppings,Total_Biaya
+WMD-1001,2026-09-26 09:28:52,Indomie Goreng Original,Goreng,3,"Telur Ceplok / Dadar;Kornet Sapi Gurih;Keju Cheddar Parut",21000
+WMD-1002,2026-09-26 10:28:52,Indomie Ayam Bawang,Kuah,1,"Telur Ceplok / Dadar;Sayur Sawi Hijau",14000
+WMD-1003,2026-09-26 11:28:52,Indomie Goreng Aceh,Goreng,4,"Telur Ceplok / Dadar;Sosis Panggang;Kornet Sapi Gurih",22000
+WMD-1004,2026-09-26 11:58:52,Indomie Goreng Original,Goreng,2,"Telur Ceplok / Dadar;Keju Cheddar Parut",16000
+WMD-2683,2026-09-26 12:31:32,Indomie Goreng Original,Goreng,2,"Telur Ceplok / Dadar",12000
+WMD-520,2026-09-26 12:33:20,Indomie Goreng Original,Goreng,2,"Bakso Sapi Kenyal",13000
+WMD-8246,2026-09-26 12:39:38,Indomie Soto Mie Spesial,Kuah,3,"Telur Ceplok / Dadar;Kornet Sapi Gurih;Sosis Panggang;Keju Cheddar Parut;Bakso Sapi Kenyal;Sayur Sawi Hijau;Kulit Ayam Crispy;Sambal Bawang Rawit",40000
+WMD-9254,2026-09-26 12:46:19,Indomie Ayam Bawang,Kuah,5,"Telur Ceplok / Dadar;Sambal Bawang Rawit",14000
